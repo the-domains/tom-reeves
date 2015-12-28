@@ -1,6 +1,6 @@
 name: Tom Reeves
 favicon: null
-layout_spectrum: 0.21769
+layout_spectrum: 1
 typography_spectrum: 0.9606332264374942
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#000200'
     - '#86a8c4'
   brandStrength: 0
-  lightness: 0.0625
-  saturation: 0.25
-  rhythmicContrast: 0.35813297773711383
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
