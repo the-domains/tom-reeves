@@ -1,6 +1,6 @@
 name: Tom Reeves
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7409
 typography_spectrum: 0.9606332264374942
 title: Tom Reeves Photography
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a3a3a3'
     - '#02327c'
   brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
